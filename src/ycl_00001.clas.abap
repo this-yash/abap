@@ -1,4 +1,3 @@
-"! <p class="shorttext synchronized">Hello World!</p>
 "! A simple "Hello World!" program.
 class ycl_00001 definition
   public
